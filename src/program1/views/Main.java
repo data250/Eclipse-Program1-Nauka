@@ -1,4 +1,4 @@
-package program1.model;
+package program1.views;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -9,6 +9,10 @@ import javax.swing.border.EmptyBorder;
 
 public class Main extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 
 	/**
